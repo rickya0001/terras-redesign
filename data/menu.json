@@ -1,0 +1,446 @@
+[
+  {
+    "slug": "viernes-de-vicios-vol-26",
+    "name": "Viernes de vicios Vol.26",
+    "sections": [
+      {
+        "name": "Featured Cocktails",
+        "items": [
+          {
+            "name": "The botanist",
+            "description": "Another hendricks, thai basil syrup, grapfreuit ,lemon, disaronno",
+            "price": "$13"
+          },
+          {
+            "name": "Quiet garden",
+            "description": "Another hendricks, raspberry, lime, pineapple, mango, falernum rum",
+            "price": "$13"
+          }
+        ]
+      },
+      {
+        "name": "Chefs Specials",
+        "items": [
+          {
+            "name": "Empanadas de Chicharron",
+            "description": "3 Hand made empanadas filled with chicharron and cheese, topped with pickled red onions, queso fresco and cream served over our chipotle black beans.",
+            "price": "$18"
+          },
+          {
+            "name": "Choriqueso",
+            "description": "Melted oaxaca cheese with mexican chorizo topped with pickled onions, naan bread on the side",
+            "price": "$18"
+          },
+          {
+            "name": "Quesabirrias",
+            "description": "beef birria tacos, oaxaca cheese, pickled onions, birria consome on the side",
+            "price": "$18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dinner",
+    "name": "Dinner",
+    "sections": [
+      {
+        "name": "Botanas",
+        "items": [
+          {
+            "name": "Panchos",
+            "description": "grilled outside skirt, refried black beans, kielbasa beef sausage, queso fresco, avocado salsa verde, cilantro, crema fresca",
+            "price": "$21"
+          },
+          {
+            "name": "Aguachile Verde",
+            "description": "cubed ahi tuna, avocado cubes, salsa verde, pickled red onions, tortilla chips",
+            "price": "$21"
+          },
+          {
+            "name": "Shrimp Molcajete",
+            "description": "chipotle salsa tatemada, panela cheese, shrimp, queso fresco, cilantro, tortilla chips",
+            "price": "$21"
+          }
+        ]
+      },
+      {
+        "name": "Small Plates",
+        "items": [
+          {
+            "name": "Costillas De Elote",
+            "description": "chipotle aioli, queso cotija, chili spices, lime, cilantro",
+            "price": "$15"
+          },
+          {
+            "name": "Papas En Salsa Verde",
+            "description": "yukon gold potatoes, salsa verde tatemada, oaxaca cheese, curtido de habanero",
+            "price": "$14"
+          },
+          {
+            "name": "Guacamole",
+            "description": "avocado mash, mandarin xni-pec, tortilla chips",
+            "price": "$12"
+          },
+          {
+            "name": "Zanahorias Rostizadas",
+            "description": "roasted carrots, coriander aioli, pistachio dukkah",
+            "price": "$15"
+          },
+          {
+            "name": "Oaxacan Fries",
+            "description": "Natural Cut Fries, Sal De Chapulin, Chipotle Aioli, Feta Cheese",
+            "price": "$12"
+          },
+          {
+            "name": "Roasted Bone Marrow",
+            "description": "Oven roasted bone marrow, mint chermoula, sourdough bread.",
+            "price": "$16"
+          },
+          {
+            "name": "Naan Bread & Chicharron Prensado",
+            "description": "pork belly chicharron prensado, oven roasted naan bread, refried black beans, queso oaxaca, chorizo salsa macha, curtido",
+            "price": "$21"
+          },
+          {
+            "name": "Choriqueso",
+            "description": "Melted oaxaca cheese with mexican chorizo topped with pickled onions, naan bread on the side",
+            "price": "$18"
+          }
+        ]
+      },
+      {
+        "name": "Tacos",
+        "items": [
+          {
+            "name": "Outside Skirt",
+            "description": "grilled outside skirt, burnt onion, queso fresco, cilantro, nixtamal tortillas",
+            "price": "$17"
+          },
+          {
+            "name": "Cochinita Pibil",
+            "description": "achiote braised pork shoulder,, queso oaxaca, pickled red onions, nixtamal tortillas",
+            "price": "$17"
+          },
+          {
+            "name": "Carnitas",
+            "description": "crispy porkbelly, avocado mash, xni-pec, nixtamal tortillas",
+            "price": "$17"
+          },
+          {
+            "name": "Quesabirrias",
+            "description": "beef birria tacos, oaxaca cheese, pickled onions, birria consome on the side",
+            "price": "$18"
+          }
+        ]
+      },
+      {
+        "name": "Main Entrees",
+        "items": [
+          {
+            "name": "Ribeye & Mole",
+            "description": "mole negro, roasted bone marrow, pistachio dukkah, queso fresco, nixtamal tortillas",
+            "price": "$49"
+          },
+          {
+            "name": "Ny Strip &  Mexican Chimichurri",
+            "description": "8 oz center cut prime ny strip, creamy mashed potatoes, mexican chimichurri",
+            "price": "$38"
+          },
+          {
+            "name": "Chipotle Alfredo",
+            "description": "seared chicken breast, rigatoni, sourdough bread, chipotle bechamel & parmesan cheese",
+            "price": "$25"
+          },
+          {
+            "name": "Chimichurri Salmon",
+            "description": "basil chimichurri, jasmine rice, xni-pec, mandarin, sweet soy",
+            "price": "$30"
+          },
+          {
+            "name": "Pollo Asado",
+            "description": "citrus brine & mesquite smoked chicken quarter, salsa casera, nixtamal tortillas, artisan habanero sausage, chiles serranos",
+            "price": "$21"
+          },
+          {
+            "name": "Chicharron De Ribeye",
+            "description": "ribeye fatty ends, avocado mash, xni-pec, queso fresco, nixtamal tortilla",
+            "price": "$25"
+          },
+          {
+            "name": "Double Smash Burger",
+            "description": "2x 4 oz patties, american cheese, roasted onion aioli, brioche buns, iceberg lettuce, house pickles, natural cut fries",
+            "price": "$18"
+          }
+        ]
+      },
+      {
+        "name": "Dessert",
+        "items": [
+          {
+            "name": "House Cornbread",
+            "description": "",
+            "price": "$15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cocktail-menu",
+    "name": "Cocktail Menu",
+    "sections": [
+      {
+        "name": "House Cocktails",
+        "items": [
+          {
+            "name": "El Padrino Cherry",
+            "description": "cachaca, fernet branca, lustau pedro ximénez sherry, lemon, cherry",
+            "price": "$12"
+          },
+          {
+            "name": "La Regia",
+            "description": "four roses bourbon, aperol, lemon, strawberry, basil, sparkling wine",
+            "price": "$12"
+          },
+          {
+            "name": "Humo Tropical",
+            "description": "del maguey vida mezcal, ascendente sotol, banana, coconut milk, lemon, aztec chocolate",
+            "price": "$12"
+          },
+          {
+            "name": "Tierra del Paraiso",
+            "description": "planteray pineapple rum, coconut washed jose cuervo tradicional reposado, italicus, cocchi americano",
+            "price": "$12"
+          }
+        ]
+      },
+      {
+        "name": "Hall Of Fame",
+        "items": [
+          {
+            "name": "Sangre De Azteca",
+            "description": "del maguey vida mezcal, hibiscus, lime, jalapeno",
+            "price": "$12"
+          },
+          {
+            "name": "El Matador",
+            "description": "del maguey vida mezcal, pineapple, cucumber, lime, agave",
+            "price": "$12"
+          },
+          {
+            "name": "La Toxica",
+            "description": "nue vodka, dry curacao, raspberry, lemon",
+            "price": "$12"
+          },
+          {
+            "name": "Noche En Tulum",
+            "description": "del maguey vida mezcal, green chartreuse, cachaca, lime, agave",
+            "price": "$12"
+          },
+          {
+            "name": "Campfire",
+            "description": "four roses bourbon, honey, lemon, ginger, bitters, cinnamon",
+            "price": "$12"
+          }
+        ]
+      },
+      {
+        "name": "Classic Cocktails",
+        "items": [
+          {
+            "name": "Margarita",
+            "description": "gran centenario tequila, curacao, lime, agave",
+            "price": "$11"
+          },
+          {
+            "name": "Moscow Mule",
+            "description": "nue vodka, ginger, lime, honey",
+            "price": "$11"
+          },
+          {
+            "name": "Paloma",
+            "description": "gran centenario tequila, grapefruit, lime, agave",
+            "price": "$11"
+          },
+          {
+            "name": "Old Fashioned",
+            "description": "rye whiskey, turbinado, bitters",
+            "price": "$11"
+          },
+          {
+            "name": "Cucumber Martini",
+            "description": "nue vodka, cucumber, lime, sugar",
+            "price": "$11"
+          },
+          {
+            "name": "Naked & Famous",
+            "description": "del maguey vida mezcal, yellow chartreuse, aperol, lime",
+            "price": "$11"
+          },
+          {
+            "name": "Penicillin",
+            "description": "scotch, honey, lemon, ginger, peated scotch",
+            "price": "$11"
+          },
+          {
+            "name": "Mezcal Negroni",
+            "description": "del maguey vida mezcal, campari, dollin rouge",
+            "price": "$11"
+          },
+          {
+            "name": "Ultima Palabra",
+            "description": "Del Maguey Vida Mezcal, Dollin Genepy, Maraschino, Lime,",
+            "price": "$11"
+          },
+          {
+            "name": "Bee Knees",
+            "description": "Gin, Lemon, Honey",
+            "price": "$11"
+          },
+          {
+            "name": "Clover Club",
+            "description": "Gin, Raspberry, Lemon, Egg White",
+            "price": "$11"
+          },
+          {
+            "name": "Carajillo",
+            "description": "Licor 43, Espresoo",
+            "price": "$11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wine-list",
+    "name": "Wine List",
+    "sections": [
+      {
+        "name": "Sparkling",
+        "items": [
+          {
+            "name": "Zardetto 2020",
+            "description": "Prosecco, Italy \n$40 Bottle",
+            "price": "$12"
+          },
+          {
+            "name": "Mercat 2020",
+            "description": "Spain, $45 bottle",
+            "price": "$12"
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "items": [
+          {
+            "name": "Stemmari Moscato",
+            "description": "Italy, 2020\n$35 bottle",
+            "price": "$10"
+          },
+          {
+            "name": "Bottega Viania Pinot Grigio",
+            "description": "Friuli, Italy, 2020\n$45 Bottle",
+            "price": "$12"
+          },
+          {
+            "name": "La Marca Rose",
+            "description": "Trentino, Italy 2021\nBottle $40",
+            "price": "$11"
+          },
+          {
+            "name": "La Cala Vermentino",
+            "description": "Italy, 2023\nBottle $30",
+            "price": "$10"
+          },
+          {
+            "name": "Flowers Chardonnay",
+            "description": "Sonoma Coast, California 2020\n$40",
+            "price": "$12"
+          },
+          {
+            "name": "Rombauer Sauvignon Blanc",
+            "description": "Sonoma County, California, 2022",
+            "price": "$50"
+          },
+          {
+            "name": "Chateau Montelena Chardonnay",
+            "description": "Napa Valley, California, 2021",
+            "price": "$90"
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "items": [
+          {
+            "name": "Parducci Pinot Noir",
+            "description": "Mendocino County, California, 2020\n$45 Bottle",
+            "price": "$12"
+          },
+          {
+            "name": "Robert Hall Merlot",
+            "description": "Paso Robles, California, 2018\n$45 Bottle",
+            "price": "$12"
+          },
+          {
+            "name": "Carlos Serres  Tempranillo",
+            "description": "Crianza, Rioja, Spain, 2018\n$45 Bottle",
+            "price": "$12"
+          },
+          {
+            "name": "Treana Cabernet Sauvignon",
+            "description": "Paso Robles, California, 2021\n$45 Bottle",
+            "price": "$12"
+          },
+          {
+            "name": "Domaine Bousquet ‘Reserve’",
+            "description": "Malbec Tupungato, Mendoza, Argentina 2018\n$45 Bottle",
+            "price": "$12"
+          },
+          {
+            "name": "Emilio Moro Tempranillo",
+            "description": "Ribera Del Duero, Spain, 2022",
+            "price": "$60"
+          },
+          {
+            "name": "Luca Old Vines, Malbec",
+            "description": "Uco Valley, Argentina, 2019",
+            "price": "$60"
+          },
+          {
+            "name": "Austin Hope, Cabernet Sauvignon",
+            "description": "Paso Robles, California, 2020",
+            "price": "$90"
+          },
+          {
+            "name": "Vatan Tinta de Toro",
+            "description": "Toro, Spain 2017",
+            "price": "$90"
+          },
+          {
+            "name": "Orin Swift Machete 2020",
+            "description": "California, Red blend",
+            "price": "$100"
+          },
+          {
+            "name": "Robert Mondavi, Cabernet Sauvignon",
+            "description": "Napa Valley, California, 2019",
+            "price": "$100"
+          },
+          {
+            "name": "VA SO, Cabernet Sauvignon",
+            "description": "Napa Valley, 2021",
+            "price": "$120"
+          },
+          {
+            "name": "Nicolas Catena Zapata",
+            "description": "Mendoza, Argentina, 2019",
+            "price": "$150"
+          }
+        ]
+      }
+    ]
+  }
+]
